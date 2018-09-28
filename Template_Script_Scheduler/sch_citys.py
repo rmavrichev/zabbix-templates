@@ -14,8 +14,8 @@ TSTAMP = str(int(time.time()))
 VALUE = '0'
 
 # Procera specific:
-user = "jsm"
-pwd = "jsmuser00"
+user = "test"
+pwd = "test"
 counter1 = 0
 skip = 3
 rt = None
